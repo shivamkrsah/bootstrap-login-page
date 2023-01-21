@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.row{
+    background-color: rgb(174, 135, 135);
+    border-radius: 30px;
+    box-shadow: 12px 12px 27px;
+    width: auto;
+    height: 37rem;
+}
+img{
+    width: 120%;
+    height: 37.5rem;
+    border-top-left-radius: 229px;
+    border-bottom-right-radius: 429px;
+}
+.login h1{
+    font-size: 4rem;
+    font-weight: 300;
+}
+.inp{
+    height: 50px;
+    width: 70%;
+    border: none;
+    border-radius: 50px;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    -ms-border-radius: 50px;
+    -o-border-radius: 50px;
+    box-shadow: -26px -19px 30px -19px rgba(0, 0, 0, 0.35);
+}
